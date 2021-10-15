@@ -5,8 +5,8 @@
     "question":"\u003Cp\u003EHeter det \u003Cem\u003EÃ¥ huke av\u003C/em\u003E eller \u003Cem\u003EÃ¥ hukke av\u003C/em\u003E i et skjema?\u003C/p\u003E",
     "answer":"\u003Cp\u003E\u003Cstrong\u003EBegge deler er i bruk, men vi anbefaler faktisk Ã¥ \u003Cem\u003Ehake av\u003C/em\u003E.\u003Cem\u003EÂ \u003C/em\u003E\u003C/strong\u003E\u003C/p\u003E\u000D\u000A\u003Cp\u003E\u003Cem\u003EHuke av\u003C/em\u003EÂ er mye brukt og kan ikke kalles feil, men uttrykket stÃ¥r ikke iÂ \u003Ca href\u003D\u0022https://ordbok.uib.no/perl/ordbok.cgi?OPP\u003D+huke\u0026amp\u003Bant_bokmaal\u003D5\u0026amp\u003Bant_nynorsk\u003D5\u0026amp\u003Bbegge\u003D+\u0026amp\u003Bordbok\u003Dbegge\u0022 target\u003D\u0022_blank\u0022\u003ErettskrivningsordbÃ¸kene\u003C/a\u003EÂ ennÃ¥ (2021).\u003C/p\u003E\u000D\u000A\u003Cp\u003E\u003Cem\u003E\u003Cem\u003E\u003Ca href\u003D\u0022https://en.wikipedia.org/wiki/Check_mark\u0022\u003EA check mark\u003C/a\u003E\u003C/em\u003EÂ \u003C/em\u003Eer en \u003Cem\u003Ehake\u003C/em\u003E, ikke en \u003Cem\u003Ehuk\u003C/em\u003E.\u003C/p\u003E\u000D\u000A\u003Cp\u003E\u003Cem\u003EHuk\u003C/em\u003EÂ er et ganske gammelt ord i norsk, men ikkeÂ i en helt relevant betydning (sÃ¸k etter \u003Cem\u003Ehuk\u003C/em\u003E i \u003Ca href\u003D\u0022http://www.edd.uio.no/perl/search/search.cgi?appid\u003D59\u0026amp\u003Btabid\u003D993\u0022 target\u003D\u0022_blank\u0022\u003EGrunnmanuskriptet til Norsk Ordbok\u003C/a\u003E). \u003Cem\u003E\u003Cbr /\u003E\u003C/em\u003E\u003C/p\u003E\u000D\u000A\u003Cp\u003EÂ \u003C/p\u003E",
     "standard_language":"BokmÃ¥l",
-    "applicable_to":["BokmÃ¥l", "Nynorsk", ],
-    "tags":["Kan ordet brukes?", "Importord og skrivemÃ¥te", ]
+    "applicable_to":["BokmÃ¥l", "Nynorsk"],
+    "tags":["Kan ordet brukes?", "Importord og skrivemÃ¥te"]
   },
   {
     "id":"2398",
@@ -14,8 +14,8 @@
     "question":"\u003Cp\u003EFÃ¸r vartÂ \u003Cem\u003Eberberiss\u003C/em\u003EÂ skrive slik, med dobbelÂ \u003Cem\u003Es\u003C/em\u003E. Men no ser eg i ei ordliste at ordet skal skrivast med enkelÂ \u003Cem\u003Es\u003C/em\u003E, medanÂ \u003Cem\u003Ekornell\u003C/em\u003E fÃ¥r dobbelÂ \u003Cem\u003El\u003C/em\u003E og \u003Cem\u003Emogop\u003C/em\u003E fÃ¥r enkelÂ \u003Cem\u003Ep\u003C/em\u003E. Burde ikkje desse orda ha dobbelkonsonant til slutt, sidan den siste vokalen er stutt?\u003C/p\u003E",
     "answer":"\u003Cp\u003E\u003Cstrong\u003ESkrivemÃ¥ten av desse orda er regulert ut frÃ¥ eit ortografisk hovudprinsipp: Det skal vere dobbelkonsonant etter kort trykktung vokal, slik som i \u003Cem\u003Ekornell\u003C/em\u003E, men ikkje etter kort trykklett vokal, som i \u003Cem\u003Eberberis\u003C/em\u003E og \u003Cem\u003Emogop\u003C/em\u003E.\u003C/strong\u003E\u003C/p\u003E",
     "standard_language":"Nynorsk",
-    "applicable_to":["BokmÃ¥l", "Nynorsk", ],
-    "tags":["Enkel og dobbel konsonant", ]
+    "applicable_to":["BokmÃ¥l", "Nynorsk"],
+    "tags":["Enkel og dobbel konsonant"]
   },
   {
     "id":"201",
@@ -23,7 +23,7 @@
     "question":"\u003Cp\u003EKan ein skriva 10000, eller mÃ¥ det vera 10 000 med mellomrom? Er det ulike reglar for tekst og formlar?\u003C/p\u003E",
     "answer":"\u003Cp\u003E\u003Cstrong\u003EDet normale er 10 000, anten det er i lÃ¸pande tekst eller i matematiske oppstillingar.\u003C/strong\u003E\u003C/p\u003E\u000D\u000A\u003Cp\u003EDet finst eitt unntak, og det er i visse rekneark og liknande der maskina ikkje kan rekna rett dersom talet stÃ¥r med mellomrom.\u003C/p\u003E\u000D\u000A\u003Cp\u003EVed firesifra tal er det valfritt med mellomrom: 1000 eller 1 000.\u003C/p\u003E\u000D\u000A\u003Cp\u003EMerk: Ikkje bruk punktum.\u003C/p\u003E\u000D\u000A\u003Cp\u003ETips: Bruk det som pÃ¥ menyen gjerne heiter Â«hardt mellomromÂ», sÃ¥ dett ikkje nullane Ã¥leine ned pÃ¥ neste line.\u003C/p\u003E",
     "standard_language":"Nynorsk",
-    "applicable_to":["BokmÃ¥l", "Nynorsk", ],
-    "tags":["Tall og talluttrykk", ]
+    "applicable_to":["BokmÃ¥l", "Nynorsk"],
+    "tags":["Tall og talluttrykk"]
   }
 ]
